@@ -9,4 +9,4 @@ Created by Vladimir Alexandre Pakhomov, the philosophy emphasizes the importance
 Autonomor encourages individuals to act with dignity, pursue their dreams, and understand the dynamic interplay between fate, free will, and human nature.
 In doing so, individuals can leave a meaningful impact on the world, defining their existence through their choices.
 
-See more at the Github pages website [here](https://vladimir-sama.github.io/).
+See more at the Github pages website [here](https://vladimir-sama.github.io/autonomor/).
