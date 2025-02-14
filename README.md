@@ -1,4 +1,6 @@
-<img src="static/autonomor.webp" width="250px">
+<div align="center">
+  <img src="static/autonomor.webp" width="250pt">
+</div>
 
 ## Autonomor: The Philosophy of Self-Dominion
 
