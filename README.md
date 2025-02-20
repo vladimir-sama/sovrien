@@ -10,4 +10,4 @@ Sovrien is a path of **self-dominion**, where freedom, struggle, and mastery def
 
 See more at the Github pages website [here](https://vladimir-sama.github.io/sovrien/).
 
-(25/02/15)
+(25/02/20)
